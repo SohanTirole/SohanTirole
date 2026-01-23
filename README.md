@@ -32,7 +32,6 @@
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
   <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
 
   <!-- Databases -->
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -52,9 +51,9 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=SohanTirole&show_icons=true&hide_title=false&theme=dark#gh-dark-mode-only" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohanTirole&layout=compact&theme=dark#gh-dark-mode-only" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=SohanTirole&show_icons=true&theme=dark#gh-dark-mode-only" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohanTirole&layout=compact&theme=dark#gh-dark-mode-only" />
+
 
 </div>
 
