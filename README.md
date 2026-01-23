@@ -46,17 +46,15 @@
 
 ---
 
-## 📊 GitHub Stats (Dark/Light Theme Auto)
+## 📊 GitHub Stats
 
 <div align="center">
 
 <!-- GitHub Stats Card -->
 ![Sohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SohanTirole&show_icons=true&hide_title=false&theme=dark#gh-dark-mode-only)
-![Sohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SohanTirole&show_icons=true&hide_title=false&theme=default#gh-light-mode-only)
 
 <!-- Most Used Languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SohanTirole&layout=compact&theme=dark#gh-dark-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SohanTirole&layout=compact&theme=default#gh-light-mode-only)
 
 </div>
 
