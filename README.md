@@ -17,8 +17,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-
 <p align="center">
   
   <!-- Languages -->
@@ -47,8 +45,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
   
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=SohanTirole&show_icons=true&theme=dark#gh-dark-mode-only" />
@@ -59,15 +55,11 @@
 
 ---
 
-### ✍️ Random Dev Quote
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
-
-## 🤝 Let's Connect!
 
 <p align="center">
   <a href="https://linkedin.com/in/sohan011">
